@@ -1,5 +1,5 @@
 # Computational-Fluid-Dynamics-Machine-Learning-Examples
-This repo contains tutorial type programs showing some basic ways Neural Networks can be applied to CFD. The purpose of this is to give those who are familiar with CFD but not Neural Networks a few very simple examples of applications. In particular, there is an example for predicting drag from the boundary conditions as well as predicting the velocity and pressure field from the boundary conditions.
+This repository contains tutorial type programs showing some basic ways Neural Networks can be applied to CFD. The purpose of this is to give those who are familiar with CFD but not Neural Networks a few very simple examples of applications. In particular, there is an example for predicting drag from the boundary conditions as well as predicting the velocity and pressure field from the boundary conditions.
 
 The Neural Network code is written with the popular and easy to use [Keras](https://keras.io/) library. [OpenLB](http://optilb.org/openlb/) is used to generate the simulation data needed for training.
 
